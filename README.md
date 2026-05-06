@@ -27,10 +27,6 @@ This project is an end-to-end data analysis dashboard created using Power BI. It
 4. Built calculated columns and measures using DAX
 5. Designed an interactive dashboard with visuals
 
-## 📷 Dashboard Preview
-
-(Add your dashboard screenshot here)
-
 ## 📊 Key Features
 
 * Interactive filters and slicers
@@ -51,6 +47,9 @@ This project is an end-to-end data analysis dashboard created using Power BI. It
 * Order.csv
 * Detail.csv
 * power bi dashboard.png
+  
+Preview - 
+<img width="1384" height="721" alt="image" src="https://github.com/user-attachments/assets/df3429ec-91d0-415f-8c84-21b059565aa9" />
 
 ## 🚀 How to Use
 
